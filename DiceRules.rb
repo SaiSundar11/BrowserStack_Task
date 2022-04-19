@@ -165,3 +165,5 @@ class DiceRules
     end
     my_array = DiceRules.new
     my_array.check_dice_numbers(dice_array)
+
+    
